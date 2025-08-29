@@ -1,0 +1,35 @@
+!DOCTYPE html>
+
+<html>
+
+    <!- -External style-- >
+
+    <link ref="stylesheet" href="style.css">
+
+    <!- -Internal style - - >
+
+    <style>
+
+      h1{background-color:blanchedalmond;border:1px double blue;}
+
+      h2{color:blue; background-color:red;border:3px dotted yellow;}
+
+        
+
+    </style>
+
+    <body>
+
+        <!-- Inline CSS-->
+
+        <h1 style="color:brown";text-align:center;>EDUNET FOUNDATION</h1>
+
+        <p style="font-style:italic;background-color: aquamarine;font-size:cx-large;">TNSDC 8WEEKS PROGRAM</p>
+
+        <h2>FRONT END WEB DEVELOPMENT</h2>
+
+        <h4>Example</h4>
+
+    </body>
+
+</html>
